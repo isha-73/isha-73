@@ -36,7 +36,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-  
+<hr>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/isha-73"><img src="https://github-readme-stats.vercel.app/api?username=isha-73&show_icons=true&hide=commits,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="isha's GitHub stats" /></a>
+
+<a href="http://www.github.com/isha-73"><img src="https://github-readme-streak-stats.herokuapp.com/?user=isha-73&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 </div>
  
 <!--
