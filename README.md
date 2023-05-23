@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
-   Hi there 👋
  <br>
  <div id="badges">
   <a href="http://www.linkedin.com/in/isha-bule-23a51820b">
@@ -12,10 +11,13 @@
 </div>
   <br>
 <img src="https://komarev.com/ghpvc/?username=isha-73&style=flat-square&color=blue" alt=""/>
-  
+  <br>
+  <strong> Hi there 👋 </strong>
 </div>
-
-
+<hr>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <!--
 **isha-73/isha-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
