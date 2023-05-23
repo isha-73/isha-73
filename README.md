@@ -6,7 +6,7 @@
   <a href="http://www.linkedin.com/in/isha-bule-23a51820b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/BuleIsha?t=6yVoEI64la2S8_qlZa2mSg&s=08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
