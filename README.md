@@ -36,7 +36,8 @@
 <a href="http://www.github.com/isha-73"><img src="https://github-readme-stats.vercel.app/api?username=isha-73&show_icons=true&hide=commits,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="isha's GitHub stats" /></a>
 
 <a href="http://www.github.com/isha-73"><img src="https://github-readme-streak-stats.herokuapp.com/?user=isha-73&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isha-73&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
 <!--
