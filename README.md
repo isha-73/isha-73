@@ -14,8 +14,8 @@
 </div>
 <hr>
 <div>
- :woman_technologist: About Me :<br>
- I am a computer engineering student from India.
+ :woman_technologist:
+        <h4>I am a computer engineering student from India.</h4>
  <br>
  :hammer_and_wrench: Languages and Tools :
   <br>
