@@ -23,24 +23,12 @@
 
 <div align="center">
   <h2>GitHub Statistics</h2>
-  <div style="display: flex; justify-content: center;">
-    <div style="margin: 0 10px;">
-      <a href="https://stats.quine.sh/isha-73/github?theme=dark">
-        <img src="https://stats.quine.sh/isha-73/github?theme=dark" alt="GitHub Stats" width="400" />
-      </a>
-    </div>
-  </div>
-</div>
-
-<div  style="display: flex; flex-direction:column; justify-content: center; margin-top: 20px;">
-  <div style="margin: 0 10px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://stats.quine.sh/isha-73/github?theme=dark">
+      <img src="https://stats.quine.sh/isha-73/github?theme=dark" alt="GitHub Stats" width="400" />
+    </a>
     <a href="https://stats.quine.sh/isha-73/languages-over-time?theme=dark">
       <img src="https://stats.quine.sh/isha-73/languages-over-time?theme=dark" alt="Languages Over Time" width="400" />
-    </a>
-  </div>
-  <div style="margin: 0 10px;">
-    <a href="https://stats.quine.sh/isha-73/topics-over-time?theme=dark">
-      <img src="https://stats.quine.sh/isha-73/topics-over-time?theme=dark" alt="Topics Over Time" width="400" />
     </a>
   </div>
 </div>
