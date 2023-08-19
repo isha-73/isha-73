@@ -37,7 +37,7 @@
   </div>
   <div align="center" style="margin-top: 20px;">
     <a href="https://stats.quine.sh/isha-73/topics-over-time?theme=dark">
-      <img src="https://stats.quine.sh/isha-73/topics-over-time?theme=dark" alt="Topics Over Time" width="800" />
+      <img src="https://stats.quine.sh/isha-73/topics-over-time?theme=dark" alt="Topics Over Time" width="400" />
     </a>
   </div>
 </div>
