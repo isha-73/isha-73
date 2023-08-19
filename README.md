@@ -34,7 +34,7 @@
   <br>
  
  <a href="https://stats.quine.sh/isha-73/topics-over-time?theme=dark">
-    <img src="https://quine.sh?utm_source=widgets&utm_campaign=isha-73" alt="Topics Over Time" />
+    <img src="https://stats.quine.sh/isha-73/topics-over-time?theme=dark" alt="Topics Over Time" />
   </a>
   
 </div>
