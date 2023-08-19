@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Hi there! 👋</h1>
 </div>
-<!-- <hr> -->
 
 <div align="center">
   <a href="http://www.linkedin.com/in/isha-bule-23a51820b">
@@ -24,17 +23,21 @@
 
 <div align="center">
   <h2>GitHub Statistics</h2>
-  <a href="https://stats.quine.sh/isha-73/languages-over-time?theme=dark">
-    <img src="https://stats.quine.sh/isha-73/languages-over-time?theme=dark" alt="Languages Over Time" />
-  </a>
+    <div>
+    <a href="https://stats.quine.sh/isha-73/github?theme=dark">
+      <img src="https://stats.quine.sh/isha-73/github?theme=dark" alt="GitHub Stats" width="400" />
+    </a>
+  </div>
+   <br>
+  <div>
+    <a href="https://stats.quine.sh/isha-73/languages-over-time?theme=dark">
+      <img src="https://stats.quine.sh/isha-73/languages-over-time?theme=dark" alt="Languages Over Time" width="400" />
+    </a>
+  </div>
   <br>
-  <a href="https://stats.quine.sh/isha-73/github?theme=dark">
-    <img src="https://stats.quine.sh/isha-73/github?theme=dark" alt="GitHub Stats" />
-  </a>
-  <br>
- 
- <a href="https://stats.quine.sh/isha-73/topics-over-time?theme=dark">
-    <img src="https://stats.quine.sh/isha-73/topics-over-time?theme=dark" alt="Topics Over Time" />
-  </a>
-  
+  <div>
+    <a href="https://stats.quine.sh/isha-73/topics-over-time?theme=dark">
+      <img src="https://stats.quine.sh/isha-73/topics-over-time?theme=dark" alt="Topics Over Time" width="400" />
+    </a>
+  </div>
 </div>
