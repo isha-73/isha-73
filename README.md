@@ -31,13 +31,13 @@
     </div>
     <div style="margin: 0 10px;">
       <a href="https://stats.quine.sh/isha-73/languages-over-time?theme=dark">
-        <img src="https://stats.quine.sh/isha-73/languages-over-time?theme=dark" alt="Languages Over Time" width="400" />
+        <img src="https://stats.quine.sh/isha-73/languages-over-time?theme=dark" alt="Languages Over Time" width="200" />
       </a>
     </div>
   </div>
   <div align="center" style="margin-top: 20px;">
     <a href="https://stats.quine.sh/isha-73/topics-over-time?theme=dark">
-      <img src="https://stats.quine.sh/isha-73/topics-over-time?theme=dark" alt="Topics Over Time" width="400" />
+      <img src="https://stats.quine.sh/isha-73/topics-over-time?theme=dark" alt="Topics Over Time" width="200" />
     </a>
   </div>
 </div>
