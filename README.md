@@ -13,11 +13,15 @@
   <strong> Hi there 👋 </strong>
 </div>
 <hr>
-<h4>:woman_technologist: I am a Computer Engineering student from India.</h4>
-<br>
-<!-- [![isha-73's GitHub | Languages Over Time] -->
-(https://stats.quine.sh/isha-73/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=isha-73)
-<hr>
-<!-- [![isha-73's GitHub | Stats] -->
-(https://stats.quine.sh/isha-73/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=isha-73)
-
+ <div>
+    <!-- Embed the widget HTML here -->
+    <h4>:woman_technologist: I am a Computer Engineering student from India.</h4>
+    <br>
+    <a href="https://stats.quine.sh/isha-73/languages-over-time?theme=dark">
+      <img src="https://stats.quine.sh/isha-73/languages-over-time?theme=dark" alt="Languages Over Time" />
+    </a>
+    <hr>
+    <a href="https://stats.quine.sh/isha-73/github?theme=dark">
+      <img src="https://stats.quine.sh/isha-73/github?theme=dark" alt="GitHub Stats" />
+    </a>
+  </div>
