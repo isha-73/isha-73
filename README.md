@@ -16,7 +16,10 @@
 
 <div align="center">
   <h2>:woman_technologist: About Me</h2>
-  <p>I am a Computer Engineering student from India.</p>
+* :woman_technologist: I'm a Computer Engineering student
+* 🌍  I'm based in India
+* 🧠  I'm learning ReactJs, NextJs
+* 🤝  I'm open to collaborating on unique ideas
 </div>
 
 <hr>
