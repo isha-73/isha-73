@@ -16,13 +16,14 @@
 
 
 <h2>:woman_technologist: About Me</h2>
-* :woman_technologist: I'm a Computer Engineering student
-* 🌍  I'm based in India
-* 🧠  I'm learning ReactJs, NextJs
-* 🤝  I'm open to collaborating on unique ideas
-
-
-<hr>
+:woman_technologist: I'm a Computer Engineering student
+<br>
+🌍 I'm based in India
+<br>
+🧠 I'm learning ReactJs, NextJs
+<br>
+🤝 I'm open to collaborating on unique ideas
+<br>
 
 <div align="center">
   <h2>GitHub Statistics</h2>
